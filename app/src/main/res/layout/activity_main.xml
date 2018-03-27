@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.ccb.admin.fragmentdemo.MainActivity">
+
+    <Button
+        android:id="@+id/bt1"
+        android:text="替换Fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/bt2"
+        android:text="Show.Hide切换Fragment(全隐藏式)"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/bt3"
+        android:text="Show.Hide切换Fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/bt4"
+        android:text="Show.Hide切换Fragment(防重叠)"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/bt5"
+        android:text="Layout.clipChildren"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
