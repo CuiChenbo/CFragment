@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 <<<<<<< e84334f3a5e52a62645b16061b7c96580907f2cd
 =======
 <<<<<<< 47d4acaa7a67fcd12c7214d9656a353900cb601d
 >>>>>>> commit
+=======
+>>>>>>> e84334f3a5e52a62645b16061b7c96580907f2cd
 # Built application files
 *.apk
 *.ap_
@@ -57,6 +60,7 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+<<<<<<< HEAD
 <<<<<<< e84334f3a5e52a62645b16061b7c96580907f2cd
 =======
 =======
@@ -71,3 +75,5 @@ freeline_project_description.json
 .externalNativeBuild
 >>>>>>> 提交
 >>>>>>> commit
+=======
+>>>>>>> e84334f3a5e52a62645b16061b7c96580907f2cd
